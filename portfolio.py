@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("Déploiement")
+
 with st.sidebar:
     st.write("**Mame Diarra NGOM**")
     st.write("**Technicienne supérieure en Géomatique**")
